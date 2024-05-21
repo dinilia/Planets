@@ -1,0 +1,12 @@
+[
+    {"nama": "Merkurius", "julukan": "Bintang Senja dan Bintang Pagi", "imageId": "merkurius"},
+    {"nama": "Venus", "julukan": "Bintang Kejora", "imageId": "venus"},
+    {"nama": "Bumi", "julukan": "Planet Biru", "imageId": "bumi"},
+    {"nama": "Mars", "julukan": "Planet Merah", "imageId": "mars"},
+    {"nama": "Jupiter", "julukan": "Planet Jovian", "imageId": "jupiter"},
+    {"nama": "Saturnus", "julukan": "Planet Cincin", "imageId": "saturnus"},
+    {"nama": "Uranus", "julukan": "Planet Terdingin", "imageId": "uranus"},
+    {"nama": "Neptunus", "julukan": "Planet Biru", "imageId": "neptunus"},
+    {"nama": "WASP 76b", "julukan": "Jupiter Panas", "imageId": "wasp76b"},
+    {"nama": "Kepler 22b", "julukan": "Dunia Air", "imageId": "kepler22b"}
+]
